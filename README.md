@@ -52,3 +52,8 @@
 [openprofile](https://openprofile.vtpad.ru) - сайт позволяющий создать свою визитку с контактами, записать ее из браузере на NFC-метку, также можно добавить на телефон за счет реализации PWA.
 
 
+
+## Authors
+
+- [@ckotch47](https://github.com/ckotch47)
+
