@@ -1,59 +1,34 @@
-
-# Hi i'm ckotch47 QA enginer
-
+# Hi i'm ckotch47 QA engineer
 Я являюсь QA-инженером, занимаюсь тем, что выстраиваю процессы тестирования на проектах, коррелирую проведения тестирования, выбирая оптимальную стратегию проведения тестирования.
-
 Также занимаюсь проведением ручного, автоматизированного тестирования, нагрузочного тестирования, тестирования на проникновения.
-
-
-
 ## Мой стек под разные виды тестирования
-
-
 |Ручное|Автоматизированное|Нагрузочное|Тестирование на проникновение|
 |-------------|-------------|-------------|-------------|
-| Postman | Test Cafe  | Apache jmeter  | OWASP top 10 |
-| Proxyman | Nightwatch.js  | Locust  | ZAP proxy |
-| DevTools | Jest  | k6.io  | Burp Suite |
-| Browser console | Pytest  | Artillery.io | jwt_tool |
-| Chrome Recorder | Selenium  |  | cerber |
-| Figma | Alure TestOps |   | nmap |
-| Perfict Pixel | GitHub Action  |   | ffuf |
-| Grid Ruller | Docker  |   |  |
-| Insomnia | Git  |   |  |
-| SQL/PSQL |   |   |  |
-| ADB/gADB |   |   |  |
-| siocat |   |   |  |
-| Grafana |   |   |  |
-| ELK |   |   |  |
-| Jaeger |   |   |  |
-
-
+| Postman | Test Cafe | Apache jmeter | OWASP top 10 |
+| Proxyman | Nightwatch.js | Locust | ZAP proxy |
+| DevTools | Jest | k6.io | Burp Suite |
+| Browser console | Pytest | Artillery.io | jwt_tool |
+| Chrome Recorder | Selenium | | Cerber |
+| Figma | Allure TestOps | | nmap |
+| Perfect Pixel | GitHub Action | | ffuf |
+| Grid Ruler | Docker | | |
+| Insomnia | Git | | |
+| SQL/PSQL | | | |
+| ADB/gADB | | | |
+| siocat | | | |
+| Grafana | | | |
+| ELK | | | |
+| Jaeger | | | |
 ## За время работы QA-инженером разработал следующие программы
-
 [siocat](https://github.com/ckotch47/siocat) - программа для подключения и тестирования с использованием fraemwork sicket.io
-
 [gadb](https://github.com/ckotch47/gui_for_adb) - грфическая оболочка для просмотра логов с устройства android, с удобным фильтром по pid, library или регулярному выражению
-
 [cerber](https://github.com/ckotch47/cerber) - программа для поиска поддоменов, админ панелей сайта по домену. Также имеет модуль который позволяет сканировать api.json позволяя найти открытые для пользователя конечные точки. В последний версии добвалены рекомендации по google hacking
-
-
-
-
-
 ## Pet проекты (Пет-проекты)
-
 Разработал три пет-проекта
-
-[vtpad](https://app.vtpad.ru) - система TMS для ведения тестовой дументации, позволяет создавать пространства для каждого проекта, в них добавлять чек-листы и тест-кейсы, а также заводить дефекты приложения. Имеет свою базу данных для коллекционирования репортов из инструментов автоматизированного тестирования.
-
-[portal.vtpad](https://portal.vtpad.ru/) - хаб позволяющий создавать статьи, которыми можно делится с пользователями интернета. Также присуствует интеграция с YandexGpt.
-
+[vtpad](https://app.vtpad.ru) - система TMS для ведения тестовой документации, позволяет создавать пространства для каждого проекта, в них добавлять чек-листы и тест-кейсы, а также заводить дефекты приложения. Имеет свою базу данных для коллекционирования репортов из инструментов автоматизированного тестирования.
+[portal.vtpad](https://portal.vtpad.ru/) - хаб позволяющий создавать статьи, которыми можно делится с пользователями интернета. Также присутствует интеграция с Yandex Gpt.
 [openprofile](https://openprofile.vtpad.ru) - сайт позволяющий создать свою визитку с контактами, записать ее из браузере на NFC-метку, также можно добавить на телефон за счет реализации PWA.
-
-
-
 ## Authors
-
 - [@ckotch47](https://github.com/ckotch47)
+
 
