@@ -21,7 +21,7 @@
 | ELK | | | |
 | Jaeger | | | |
 ## За время работы QA-инженером разработал следующие программы
-[siocat](https://github.com/ckotch47/siocat) - программа для подключения и тестирования с использованием fraemwork sicket.io
+[siocat](https://github.com/ckotch47/siocat) - программа для подключения и тестирования с использованием fraemwork socket.io 
 
 [gadb](https://github.com/ckotch47/gui_for_adb) - грфическая оболочка для просмотра логов с устройства android, с удобным фильтром по pid, library или регулярному выражению
 
